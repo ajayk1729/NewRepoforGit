@@ -1,1 +1,2 @@
-This is text file, used to check
+This is text file, used to check. 
+Ok, great.. it's working.
